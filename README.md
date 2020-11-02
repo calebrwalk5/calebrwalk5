@@ -1,9 +1,9 @@
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
-	[Website]
-	[YouTube]
-	[u/calebrwalk5]
+	### [Website]
+	### [YouTube]
+	### [u/calebrwalk5]
 	</details>
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
