@@ -1,8 +1,10 @@
+### [Website]
+
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
-	### [Website]
-	### [YouTube]
+	<a href="
+	### [Youtube]
 	### [u/calebrwalk5]
 	</details>
 <details>	
