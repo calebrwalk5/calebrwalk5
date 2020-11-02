@@ -3,7 +3,7 @@
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
-	<a href="
+	<a href=""></a>
 	### [Youtube]
 	### [u/calebrwalk5]
 	</details>
