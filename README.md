@@ -15,8 +15,8 @@
 </p>
 
 <p>
-<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api?username=calebrwalk5&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebrwalk5" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calebrwalk5&layout=compact&langs_count=8&theme=react"/>
 </p>
 
 [website]: http://ptsec.duckdns.org/
