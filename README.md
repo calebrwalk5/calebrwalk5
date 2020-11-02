@@ -27,7 +27,6 @@
 	<li><b>C</b></li>
 	<li><b>Javascript</b></li>
 	</details>
-<details>
 </p>
 <p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
