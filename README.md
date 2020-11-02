@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-### &nbsp;Dev. Stuff:
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
