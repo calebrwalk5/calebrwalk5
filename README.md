@@ -20,7 +20,15 @@
 	</ul>	
 </details>
 </p>
-
+<p>
+<details>
+	<summary><b>✍️ Favorite Languages</b></summary>
+	<li><b>Python</b></li>
+	<li><b>C</b></li>
+	<li><b>Javascript</b></li>
+	</details>
+<details>
+</p>
 <p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calebrwalk5&layout=compact&langs_count=8&theme=react"/>
