@@ -1,8 +1,5 @@
 ### [Website] 
-<p>
-<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api?username=calebrwalk5&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebrwalk5" />\
-</p>
+
 
 <p align="center">
 <details>	
@@ -15,6 +12,11 @@
 	    <br />
 	</ul>	
 </details>
+</p>
+
+<p>
+<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api?username=calebrwalk5&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="calebrwalk5:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebrwalk5" />
 </p>
 
 [website]: http://ptsec.duckdns.org/
