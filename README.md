@@ -3,8 +3,8 @@
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
-	<a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a>
-	<a href="https://www.reddit.com/u/calebrwalk5">Reddit Account</a>
+	<ul><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></ul>
+	<ul><a href="https://www.reddit.com/u/calebrwalk5">Reddit Account</a></ul>
 	</details>
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
