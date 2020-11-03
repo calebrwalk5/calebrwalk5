@@ -11,7 +11,7 @@
   	<ul>
   	    	<li><b>OS:</b> Pop!OS + Windows 10 Pro (dual boot)</li>
 	    	<li><b>Specs: </b>Ryzen 5 3600, 2x 980ti, 16GB RAM, ASUS ROG Strix B450-F Gaming</li>
-  	    	<li><b>Browser: </b> Chromium</li>
+  	    	<li><b>Browser: </b> Chromium or Brave</li>
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma</li>
 		<li><b>Laptop:</b> Lenovo Thinkpad R60</li>
