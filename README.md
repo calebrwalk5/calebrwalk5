@@ -7,7 +7,7 @@
 	<li><a href="https://www.reddit.com/u/calebrwalk5">Reddit Account</a></li>
 	</details>
 <details>	
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️ What I use to get stuff done</b></summary>
   	<ul>
   	    	<li><b>OS:</b> Pop!OS and Windows 10 Pro (dual boot)</li>
 	    	<li><b>Specs: </b>Ryzen 5 3600 @4.1 GHz, 980ti 2-way SLI, 16GB RAM @3200 MHz, ASUS ROG Strix B450-F Gaming, 750 watt PSU</li>
