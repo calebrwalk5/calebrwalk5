@@ -5,6 +5,7 @@
 	<summary><b>💡 Socials</b></summary>
 	<li><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></li>
 	<li><a href="https://www.reddit.com/u/calebrwalk5">Reddit Account</a></li>
+	<li><a href="https://discord.st/friends-zone/">Discord Server</a></li>
 	</details>
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
