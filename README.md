@@ -16,7 +16,7 @@
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma</li>
 		<li><b>Laptop:</b> Lenovo Thinkpad R60</li>
-		<li><b>Laptop OS:</b> Debian 9.6.0</li>
+		<li><b>Laptop OS:</b> Debian 10/li>
 	    <br />
 	</ul>	
 </details>
