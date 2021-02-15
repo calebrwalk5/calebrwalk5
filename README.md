@@ -26,7 +26,7 @@
 	<summary><b>✍️ Favorite Languages</b></summary>
 	<li><b>Python</b></li>
 	<li><b>C</b></li>
-	<li><b>Javascript</b></li>
+	<li><b>Assembly</b></li>
 </details>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
