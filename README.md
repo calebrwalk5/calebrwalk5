@@ -32,6 +32,7 @@
 	<summary><b>💻 Ongoing Projects</b></summary>
 	<li><b><a href="https://github.com/calebrwalk5/PathOS">PathOS</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/retrostrike">RetroStrike</a></b></li>
+	<li><b><a href="https://github.com/calebrwalk5/holy-c-experiments/tree/main">HolyC</a></b></li>
 </details>
 </p>
 <p>
