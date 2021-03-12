@@ -47,6 +47,6 @@
 
 ---
 
-<h1 align=center>Spread Love By Starring Some Reposotories!</h1>
+<h1 align=center>Show Some Love By Starring Some Reposotories!</h1>
 
 ---
