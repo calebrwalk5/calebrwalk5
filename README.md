@@ -37,9 +37,6 @@
 </details>
 </p>
 <p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calebrwalk5&layout=compact&langs_count=8&theme=react"/>
-</p>
 
 [Website]: http://ptsec.duckdns.org/
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
