@@ -1,5 +1,5 @@
 ### [Website]
-<img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1" /> </p>
+<img src="https://komarev.com/ghpvc/?username=calebrwalk5&label=Views&color=blue&style=plastic" alt="anusO1" /> </p>
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
@@ -31,7 +31,7 @@
 </details>
 	 <a href="http://path-os.duckdns.org">
 	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calebrwalk5&layout=compact&langs_count=8&theme=react"/>
 	</a>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
