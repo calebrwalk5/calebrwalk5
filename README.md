@@ -7,6 +7,7 @@
 	<li><a href="https://www.reddit.com/u/calebrwalk5">Reddit Handle</a></li>
 	<li><a href="https://discord.st/friends-zone/">Discord Server</a></li>
 	<li><a href="http://steamcommunity.com/id/calebrwalk3">Steam</a></li>
+	<li><a href="https://stackoverflow.com/users/12025770/anuso1">Stack Overflow</a></li>
 	</details>
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
