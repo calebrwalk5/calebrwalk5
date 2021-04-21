@@ -28,14 +28,14 @@
 	<summary><b>✍️ Favorite Languages</b></summary>
 	<li><b>C</b></li>
 	<li><b>Assembly</b></li>
-	<li><b>Bash</b></li>
+	<li><b>C++</b></li>
 </details>
 <p>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
 	<li><b><a href="https://github.com/calebrwalk5/PathOS">PathOS</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/retrostrike">RetroStrike</a></b></li>
-	<li><b><a href="https://github.com/calebrwalk5/TempleOS">TempleOS Mod</a></b></li>
+	<li><b><a href="https://github.com/calebrwalk5/cpp-experiments">Learning C++</a></b></li>
 </details>
 	 <a href="http://path-os.duckdns.org">
 	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
