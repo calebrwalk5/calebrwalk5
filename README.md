@@ -6,8 +6,8 @@
 	<li><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></li>
 	<li><a href="https://www.reddit.com/u/calebrwalk5">Reddit</a></li>
 	<li><a href="https://discord.st/friends-zone/">Discord Server</a></li>
+	<li><a href="https://disbot.top/b/anusO1%20bot">Discord Bot</a></li>
 	<li><a href="http://steamcommunity.com/id/calebrwalk3">Steam</a></li>
-	<li><a href="https://stackoverflow.com/users/12025770/anuso1?tab=profile">Stack Overflow</a></li>
 	</details>
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
