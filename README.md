@@ -28,7 +28,7 @@
 	<summary><b>✍️ Favorite Languages</b></summary>
 	<li><b>C</b></li>
 	<li><b>JavaScript</b></li>
-	<li><b>C++</b></li>
+	<li><b>Python</b></li>
 </details>
 <p>
 <details>
