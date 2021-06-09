@@ -48,7 +48,7 @@
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 [u/calebrwalk5]: https://www.reddit.com/u/calebrwalk5
 <p>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 	
 ---
 
