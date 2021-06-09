@@ -47,7 +47,9 @@
 [Website]: http://path-os.duckdns.org/
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 [u/calebrwalk5]: https://www.reddit.com/u/calebrwalk5
-
+<p>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+	
 ---
 
 <h1 align=center>Show Some Love By Starring Some Reposotories!</h1>
