@@ -43,7 +43,7 @@
 	</a>
 <p>
 
-[Website]: http://path-os.duckdns.org/
+[Website]: http://72.46.34.69/
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 [u/calebrwalk5]: https://www.reddit.com/u/calebrwalk5
 <p>
