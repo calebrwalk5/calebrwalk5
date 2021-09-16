@@ -4,12 +4,18 @@
 #include <stdio.h>
 
 char *name = "Caleb";
-char *langs[] {"C", "C++", "Assembly", "Javascript", "Python"};
+char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
+char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU.Linux"};
 
 int main() {
 	printf("%s", name);
-	for (int 1 = 0; i < 4; i++) {
+	for (int i = 0; i < 4; i++) {
 		printf("%s", langs[i]);
+		printf("\n");
+	}
+	for (int x = 0; x < 6; x++) {
+		printf("%s", tools[x]);
+		printf("\n");
 	}
 	return false
 }
