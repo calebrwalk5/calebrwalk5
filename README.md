@@ -5,7 +5,7 @@
 
 char *name = "Caleb";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
-char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU.Linux"};
+char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux"};
 
 int main() {
 	printf("%s", name);
