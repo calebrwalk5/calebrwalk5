@@ -8,7 +8,7 @@ char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "nodejs"};
 
 int main() {
-	printf("%s", name);
+	printf("%s\n", name);
 	for (int i = 0; i < 4; i++) {
 		printf("%s", langs[i]);
 		printf("\n");
