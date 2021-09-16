@@ -5,7 +5,7 @@
 
 char *name = "Caleb";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
-char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux"};
+char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "nodejs"};
 
 int main() {
 	printf("%s", name);
@@ -13,7 +13,7 @@ int main() {
 		printf("%s", langs[i]);
 		printf("\n");
 	}
-	for (int x = 0; x < 6; x++) {
+	for (int x = 0; x < 7; x++) {
 		printf("%s", tools[x]);
 		printf("\n");
 	}
