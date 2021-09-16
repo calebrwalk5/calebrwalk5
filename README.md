@@ -1,5 +1,19 @@
 ### [Website]
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a></p>
+```c
+#include <stdio.h>
+
+char *name = "Caleb";
+char *langs[] {"C", "C++", "Assembly", "Javascript", "Python"};
+
+int main() {
+	printf("%s", name);
+	for (int 1 = 0; i < 4; i++) {
+		printf("&s", langs[i]);
+	}
+	return false
+}
+```
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
@@ -23,12 +37,6 @@
 </details>
 </p>
 <p>
-<details>
-	<summary><b>✍️ Favorite Languages</b></summary>
-	<li><b>C</b></li>
-	<li><b>C++</b></li>
-	<li><b>Assembly</b></li>
-</details>
 <p>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
