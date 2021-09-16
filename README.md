@@ -9,7 +9,7 @@ char *langs[] {"C", "C++", "Assembly", "Javascript", "Python"};
 int main() {
 	printf("%s", name);
 	for (int 1 = 0; i < 4; i++) {
-		printf("&s", langs[i]);
+		printf("%s", langs[i]);
 	}
 	return false
 }
@@ -30,6 +30,7 @@ int main() {
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Window Manager:</b> <a href="https://github.com/calebrwalk5/uwm">UWM</a></li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma</li>
+		<li><b>Audio:</b> Nobsound Tube Amplifier | AKG K240</li>
 		<li><b>Laptop:</b> Lenovo Thinkpad R60</li>
 		<li><b>Laptop OS:</b> Debian 10</li>
 	    <br />
