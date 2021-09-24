@@ -17,7 +17,7 @@ int main() {
 		printf("%s", tools[x]);
 		printf("\n");
 	}
-	return false
+	return 0;
 }
 ```
 <p align="center">
