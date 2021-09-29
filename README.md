@@ -3,9 +3,9 @@
 ```c
 #include <stdio.h>
 
-char *discord anusO1#6969
-char *email calebrwalk5@dnmx.org
 char *name = "Caleb";
+char *discord = "anusO1#6969";
+char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "nodejs"};
 
