@@ -3,12 +3,14 @@
 ```c
 #include <stdio.h>
 
+char *discord anusO1#6969
+char *email calebrwalk5@dnmx.org
 char *name = "Caleb";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "nodejs"};
 
 int main() {
-	printf("%s\n", name);
+	printf("%s, %s, %s\n", name, discord, email);
 	for (int i = 0; i < 4; i++) {
 		printf("%s", langs[i]);
 		printf("\n");
