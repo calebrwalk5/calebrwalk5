@@ -11,11 +11,11 @@ char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "node
 
 int main() {
 	printf("%s, %s, %s\n", name, discord, email);
-	for (int i = 0; i < 4; i++) {
+	for (int i = 0; i < 5; i++) {
 		printf("%s", langs[i]);
 		printf("\n");
 	}
-	for (int x = 0; x < 7; x++) {
+	for (int x = 0; x < 8; x++) {
 		printf("%s", tools[x]);
 		printf("\n");
 	}
