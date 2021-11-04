@@ -7,7 +7,7 @@ char *name = "Caleb";
 char *discord = "anusO1#6969";
 char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
-char *tools[] = {"Vim", "gcc", "g++", "gdb", "Geany", "nasm", "GNU/Linux", "nodejs"};
+char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "Geany", "GNU/Linux", "Node.js"};
 
 int main() {
 	printf("%s, %s, %s\n", name, discord, email);
@@ -62,7 +62,6 @@ int main() {
 
 [Website]: http://anusO1.duckdns.org
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
-[u/calebrwalk5]: https://www.reddit.com/u/calebrwalk5
 <p>
 	
 ---
