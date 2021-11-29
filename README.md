@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 char *name = "Caleb";
-char *discord = "anusO1#6969";
+char *discord = "anusO1#0001";
 char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "Geany", "GNU/Linux", "Node.js"};
