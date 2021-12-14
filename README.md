@@ -49,7 +49,7 @@ int main() {
 <p>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
-	<li><b><a href="https://github.com/realSamiel/NGRcoin">NGRcoin</a></b></li>
+	<li><b><a href="https://git.cryptonig.ga/NGR-KLR/NGRcoin">NGRcoin</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/PathOS">PathOS</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/basilisk">Basilisk</a></b></li>
 </details>
