@@ -34,7 +34,7 @@ int main() {
   	<ul>
   	    	<li><b>OS:</b> Debian 11 and Arch (dual boot)</li>
 	    	<li><b>Specs: </b>Ryzen 5 1600X @4.10 GHz, 980ti 2-way SLI, 16GB RAM @3400 MHz, ASUS ROG Strix B450-F Gaming, 750 watt PSU</li>
-  	    	<li><b>Browser: </b> Suckless Surf and Chromium</li>
+  	    	<li><b>Browser: </b> Suckless Surf and Vivaldi</li>
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Window Manager:</b> <a href="https://github.com/calebrwalk5/uwm">UWM</a></li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma</li>
