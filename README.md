@@ -26,7 +26,6 @@ int main() {
 <details>
 	<summary><b>💡 Socials</b></summary>
 	<li><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></li>
-	<li><a href="https://discord.st/friends-zone/">Discord Server</a></li>
 	<li><a href="http://steamcommunity.com/id/calebrwalk3">Steam</a></li>
 	</details>
 <details>	
@@ -50,7 +49,7 @@ int main() {
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
 	<li><b><a href="https://6sixty6.github.io">SixSixtySix</a></b></li>
-	<li><b><a href="https://github.com/calebrwalk5/PathOS">PathOS</a></b></li>
+	<li><b><a href="https://github.com/calebrwalk5/windows-rat">Windows RAT</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/basilisk">Basilisk</a></b></li>
 </details>
 	 <a href="http://path-os.duckdns.org">
