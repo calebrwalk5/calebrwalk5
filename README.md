@@ -25,6 +25,7 @@ int main() {
 <p align="center">
 <details>
 	<summary><b>💡 Socials</b></summary>
+	<li><a href="https://twitter.com/6Sixty6_anusO1">Twitter</a></li>
 	<li><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></li>
 	<li><a href="http://steamcommunity.com/id/calebrwalk3">Steam</a></li>
 	</details>
