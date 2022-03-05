@@ -32,7 +32,7 @@ int main() {
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
   	<ul>
-  	    	<li><b>OS:</b>Gentoo</li>
+  	    	<li><b>OS:</b> Gentoo</li>
 	    	<li><b>Specs: </b>Ryzen 5 1600X @4.20 GHz, 980ti 2-way SLI, 16GB RAM @3400 MHz, ASUS ROG Strix B450-F Gaming, 750 watt PSU</li>
   	    	<li><b>Browser: </b> Suckless Surf and Firefox</li>
 	    	<li><b>Code Editor:</b> Vim</li>
