@@ -1,5 +1,5 @@
 ### [Website]
-<a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a> <a href="https://wakatime.com/@1f5f9414-c1d8-4e9b-a164-0dd5c387e2da"><img src="https://wakatime.com/badge/user/1f5f9414-c1d8-4e9b-a164-0dd5c387e2da.svg" alt="Total time coded since May 7 2022" /></a></p>
+<a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a> [![wakatime](https://wakatime.com/badge/user/1f5f9414-c1d8-4e9b-a164-0dd5c387e2da.svg)](https://wakatime.com/@1f5f9414-c1d8-4e9b-a164-0dd5c387e2da)
 ```c
 #include <stdio.h>
 
