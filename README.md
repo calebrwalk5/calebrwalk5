@@ -37,8 +37,9 @@ int main() {
   	    	<li><b>Browser: </b> Suckless Surf and Firefox</li>
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Window Manager:</b> <a href="https://github.com/calebrwalk5/uwm">UWM</a></li>
-		<li><b>Keyboard:</b> Razer Blackwidow Chroma</li>
-		<li><b>Audio:</b> Nobsound Tube Amplifier | AKG K240</li>
+		<li><b>Keyboard:</b> Razer Blackwidow Chroma with custom keycaps</li>
+		<li><b>Mouse:</b> Razer Deathadder</li>
+		<li><b>Audio:</b> Nobsound Tube Amplifier | Audio Technica ATH-M50X</li>
 		<li><b>Laptop:</b> Lenovo Thinkpad R60</li>
 		<li><b>Laptop OS:</b> Debian 10</li>
 	    <br />
