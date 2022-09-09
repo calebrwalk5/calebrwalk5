@@ -70,3 +70,8 @@ int main() {
 <h1 align=center>Show Some Love By Starring Some Reposotories!</h1>
 
 ---
+
+# thanks
+
+https://stackoverflow.com/questions/1265040/how-to-count-total-lines-changed-by-a-specific-author-in-a-git-repository<br>
+https://github.com/Itz-Hyperz
