@@ -1,6 +1,6 @@
 ### [Website]
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57%20Thousand%20lines%20of%20code-blue)
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57%20Thousand%20lines%20of%20code-blue)<br>
 ```c
 #include <stdio.h>
 
