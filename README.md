@@ -1,5 +1,4 @@
 ### [Website]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a>
 ```c
 #include <stdio.h>
