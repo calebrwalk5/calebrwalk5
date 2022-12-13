@@ -52,7 +52,6 @@ int main() {
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
 	<li><b><a href="https://github.com/calebrwalk5/FidiGUI">FidiGUI</a></b></li>
-	<li><b><a href="https://github.com/calebrwalk5/anusAI">anusAI</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/basilisk">Basilisk</a></b></li>
 </details>
 	 <a href="http://path-os.duckdns.org">
