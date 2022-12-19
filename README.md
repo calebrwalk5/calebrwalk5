@@ -1,6 +1,6 @@
 ### [Website]
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a><br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-%2028.9%20Thousand%20Lines%20of%20Code-blue)<br>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-%2028.95%20Thousand%20Lines%20of%20Code-blue)<br>
 ```c
 #include "anusio.h"
 
