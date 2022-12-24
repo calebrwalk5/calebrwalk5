@@ -60,7 +60,7 @@ int main() {
 	</a>
 <p>
 
-[Website]: http://caleb80.duckdns.org/
+[Website]: http://wigger.guru/
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 <p>
 	
