@@ -51,8 +51,7 @@ int main() {
 <p>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
-	<li><b><a href="https://github.com/calebrwalk5/FidiGUI">FidiGUI</a></b></li>
-	<li><b><a href="https://github.com/calebrwalk5/csgo-linux-external">CSGO Cheat</a></b></li>
+	<li><b><a href="https://github.com/calebrwalk5/BetterCS">BetterCS</a></b></li>
 </details>
 	 <a href="http://path-os.duckdns.org">
 	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
