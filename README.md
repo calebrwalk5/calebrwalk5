@@ -8,7 +8,7 @@ char *name = "Caleb";
 char *discord = "bateman#3814";
 char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
-char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "Geany", "GNU/Linux", "Node.js"};
+char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "VS Code", "GNU/Linux", "Node.js"};
 
 int main() {
 	printf("%s, %s, %s\n", name, discord, email);
