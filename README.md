@@ -51,7 +51,7 @@ int main() {
 <p>
 <details>
 	<summary><b>💻 Ongoing Projects</b></summary>
-	<li><b><a href="https://github.com/calebrwalk5/BetterCS">BetterCS</a></b></li><br>
+	<li><b><a href="https://github.com/calebrwalk5/BetterCS">BetterCS</a></b></li>
 	<li><b><a href="https://github.com/calebrwalk5/ai-chatbot">AI Chatbot</a></b></li>
 </details>
 	 <a href="http://path-os.duckdns.org">
