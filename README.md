@@ -8,7 +8,7 @@ char *name = "Caleb";
 char *discord = "bateman#3814";
 char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
-char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "VS Code", "GNU/Linux", "Node.js"};
+char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "VS Code", "GNU/Linux", "Ghidra"};
 
 int main() {
 	printf("%s, %s, %s\n", name, discord, email);
@@ -29,7 +29,8 @@ int main() {
 	<li><a href="https://twitter.com/6Sixty6_anusO1">Twitter</a></li>
 	<li><a href="https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg">YouTube Channel</a></li>
 	<li><a href="http://steamcommunity.com/id/calebrwalk3">Steam</a></li>
-	</details>
+	<li><a href="http://steamcommunity.com/id/papa_smuurf69">Alt. Steam</a></li>
+</details>
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
   	<ul>
