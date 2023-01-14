@@ -5,7 +5,7 @@
 #include "anusio.h"
 
 char *name = "Caleb";
-char *discord = "bateman#3814";
+char *discord = "wigger.guru/discord";
 char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "VS Code", "GNU/Linux", "Ghidra"};
