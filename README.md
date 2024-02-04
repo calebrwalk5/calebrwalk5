@@ -5,13 +5,11 @@
 #include "anusio.h"
 
 char *name = "Caleb";
-char *discord = "wigger.guru/discord";
-char *email = "calebrwalk5@dnmx.org";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
 char *tools[] = {"Vim", "GCC", "G++", "NASM", "Python", "VS Code", "GNU/Linux", "Ghidra"};
 
 int main() {
-	printf("%s, %s, %s\n", name, discord, email);
+	printf("%s, %s, %s\n", name);
 	for (int i = 0; i < 5; i++) {
 		printf("%s", langs[i]);
 		printf("\n");
@@ -43,25 +41,13 @@ int main() {
 </p>
 <p>
 <p>
-<details>
-	<summary><b>💻 Ongoing Projects</b></summary>
-	<li><b><a href="http://wigger.guru/discord">BestCS Custom CS:GO Cheat</a></b></li>
-</details>
-	 <a href="http://path-os.duckdns.org">
 	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calebrwalk5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calebrwalk5&layout=compact&langs_count=8&theme=react"/>
 	</a>
 <p>
 
-[Website]: http://wigger.guru/
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 <p>
-	
----
-
-<h1 align=center>Show Some Love By Starring Some Reposotories!</h1>
-
----
 
 # thanks
 
