@@ -1,4 +1,4 @@
-### [Website]
+### [Website] 
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a><br>
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-%2030.05%20Thousand%20Lines%20of%20Code-blue)<br>
 ```c
@@ -47,6 +47,7 @@ int main() {
 <p>
 
 [Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
+[Website]: http://bateman3814.lol
 <p>
 
 # thanks
