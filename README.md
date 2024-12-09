@@ -25,11 +25,11 @@ int main() {
 <details>	
   <summary><b>⚙️ What I use to get stuff done</b></summary>
   	<ul>
-  	    	<li><b>OS:</b> Kali Linux</li>
+  	    	<li><b>OS:</b> Arch Linux</li>
 	    	<li><b>Specs: </b>Ryzen 5 1600X @4.20 GHz, GTX 980ti 2-way SLI, 48GB RAM @3000 MHz, ASUS ROG Strix B450-F Gaming, 850 watt PSU</li>
-  	    	<li><b>Browser: </b> Suckless Surf and Firefox</li>
+  	    	<li><b>Browser: </b>Firefox</li>
 	    	<li><b>Code Editor:</b> Vim</li>
-		<li><b>Window Manager:</b> <a href="https://github.com/calebrwalk5/uwm">UWM</a></li>
+		<li><b>Desktop Environment:</b> Gnome></li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma with custom keycaps</li>
 		<li><b>Mouse:</b> Razer Deathadder</li>
 		<li><b>Audio:</b> Nobsound Tube Amplifier | Audio Technica ATH-M50X</li>
