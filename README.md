@@ -23,7 +23,7 @@ int main() {
 ```
 <p align="center">
 <details>	
-  <summary><b>⚙️ What I use to get stuff done</b></summary>
+  <summary><b>⚙️ Specs</b></summary>
   	<ul>
   	    	<li><b>OS:</b> Arch Linux</li>
 	    	<li><b>Specs: </b>Ryzen 5 @4.20 GHz, RTX 4060 Ti, 48GB RAM @3000 MHz, ASUS ROG Strix B450-F Gaming, 850 watt PSU</li>
@@ -34,7 +34,7 @@ int main() {
 		<li><b>Mouse:</b> Razer Basilisk v3</li>
 		<li><b>Audio:</b>Audio Technica ATH-M50X</li>
 		<li><b>Laptop:</b>HP Victus Core i5 13th gen, RTX 4050, 16GB RAM</li>
-	    <br />z
+	    <br />
 	</ul>	
 </details>
 </p>
@@ -45,7 +45,6 @@ int main() {
 	</a>
 <p>
 
-[Youtube]: https://www.youtube.com/channel/UCn0f4u6pnbi3YFrsQLKqWdg
 [Website]: http://bateman3814.lol
 <p>
 
