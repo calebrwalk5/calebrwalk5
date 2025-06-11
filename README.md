@@ -32,8 +32,8 @@ int main() {
 		<li><b>Desktop Environment:</b> Gnome></li>
 		<li><b>Keyboard:</b> Glorious GMMK 3</li>
 		<li><b>Mouse:</b> Razer Basilisk v3</li>
-		<li><b>Audio:</b>Audio Technica ATH-M50X</li>
-		<li><b>Laptop:</b>HP Victus Core i5 13th gen, RTX 4050, 16GB RAM</li>
+		<li><b>Audio:</b> Audio Technica ATH-M50X</li>
+		<li><b>Laptop:</b> HP Victus Core i5 13th gen, RTX 4050, 16GB RAM</li>
 	    <br />
 	</ul>	
 </details>
