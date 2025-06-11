@@ -2,7 +2,7 @@
 <a href="chrome-error://chromewebdata"><img src="https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic" alt="anusO1"/></a><br>
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-%2030.05%20Thousand%20Lines%20of%20Code-blue)<br>
 ```c
-#include "anusio.h"
+#include "stdio.h"
 
 char *name = "Caleb";
 char *langs[] = {"C", "C++", "Assembly", "Javascript", "Python"};
@@ -26,16 +26,15 @@ int main() {
   <summary><b>⚙️ What I use to get stuff done</b></summary>
   	<ul>
   	    	<li><b>OS:</b> Arch Linux</li>
-	    	<li><b>Specs: </b>Ryzen 5 1600X @4.20 GHz, GTX 980ti 2-way SLI, 48GB RAM @3000 MHz, ASUS ROG Strix B450-F Gaming, 850 watt PSU</li>
+	    	<li><b>Specs: </b>Ryzen 5 @4.20 GHz, RTX 4060 Ti, 48GB RAM @3000 MHz, ASUS ROG Strix B450-F Gaming, 850 watt PSU</li>
   	    	<li><b>Browser: </b>Firefox</li>
 	    	<li><b>Code Editor:</b> Vim</li>
 		<li><b>Desktop Environment:</b> Gnome></li>
 		<li><b>Keyboard:</b> Razer Blackwidow Chroma with custom keycaps</li>
-		<li><b>Mouse:</b> Razer Deathadder</li>
-		<li><b>Audio:</b> Nobsound Tube Amplifier | Audio Technica ATH-M50X</li>
-		<li><b>Laptop:</b> Lenovo Thinkpad R60</li>
-		<li><b>Laptop OS:</b> Debian 10</li>
-	    <br />
+		<li><b>Mouse:</b> Razer Basilisk v3</li>
+		<li><b>Audio:</b>Audio Technica ATH-M50X</li>
+		<li><b>Laptop:</b>HP Victus Core i5 13th gen, RTX 4050, 16GB RAM</li>
+	    <br />z
 	</ul>	
 </details>
 </p>
